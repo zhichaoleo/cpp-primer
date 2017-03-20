@@ -1,29 +1,8 @@
-#include<iostream>
-#include<string>
-#include<stdlib.h>
-#include<windows.h>
-#include<vector>
-#include<cstdlib>
-#include<algorithm>
-#include<cstring>
-#include<iterator>
-#include<cstddef>
-#include<exception>
-
-using namespace std;
-int a[10];
+#include"test01.h"
+#include"test02.h"
 int main()
 {
-	int a;
-	char b;
-	float c;
-	double d;
-	int *p;
-	
-		cout << sizeof(a) << sizeof(b) << sizeof(c)<< sizeof(d)<<sizeof(p)<< endl;
-	
-	
-
+	print();
 	system("pause");
 	return 0;
 

@@ -1,8 +1,8 @@
-﻿  main.cpp
-f:\cpp_primer\cpp_primer\cpp_primer\main.cpp(15): warning C4101: “a”: 未引用的局部变量
-f:\cpp_primer\cpp_primer\cpp_primer\main.cpp(16): warning C4101: “b”: 未引用的局部变量
-f:\cpp_primer\cpp_primer\cpp_primer\main.cpp(19): warning C4101: “p”: 未引用的局部变量
-f:\cpp_primer\cpp_primer\cpp_primer\main.cpp(17): warning C4101: “c”: 未引用的局部变量
-f:\cpp_primer\cpp_primer\cpp_primer\main.cpp(18): warning C4101: “d”: 未引用的局部变量
-  CPP_primer.vcxproj -> F:\CPP_primer\CPP_primer\x64\Debug\CPP_primer.exe
-  CPP_primer.vcxproj -> F:\CPP_primer\CPP_primer\x64\Debug\CPP_primer.pdb (Partial PDB)
+﻿  test02.cpp
+  正在生成代码...
+  正在编译...
+  main.cpp
+  正在生成代码...
+  LINK : 没有找到 F:\CPP_primer\CPP_primer\x64\Debug\CPP_primer.exe 或上一个增量链接没有生成它；正在执行完全链接
+test02.obj : error LNK2005: "void __cdecl print(void)" (?print@@YAXXZ) 已经在 test01.obj 中定义
+F:\CPP_primer\CPP_primer\x64\Debug\CPP_primer.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
