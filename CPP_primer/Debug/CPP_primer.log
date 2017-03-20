@@ -1,0 +1,8 @@
+﻿  main.cpp
+f:\cpp_primer\cpp_primer\cpp_primer\main.cpp(15): warning C4101: “a”: 未引用的局部变量
+f:\cpp_primer\cpp_primer\cpp_primer\main.cpp(16): warning C4101: “b”: 未引用的局部变量
+f:\cpp_primer\cpp_primer\cpp_primer\main.cpp(19): warning C4101: “p”: 未引用的局部变量
+f:\cpp_primer\cpp_primer\cpp_primer\main.cpp(17): warning C4101: “c”: 未引用的局部变量
+f:\cpp_primer\cpp_primer\cpp_primer\main.cpp(18): warning C4101: “d”: 未引用的局部变量
+  CPP_primer.vcxproj -> F:\CPP_primer\CPP_primer\Debug\CPP_primer.exe
+  CPP_primer.vcxproj -> F:\CPP_primer\CPP_primer\Debug\CPP_primer.pdb (Partial PDB)
